@@ -16,7 +16,7 @@ timezone: Europe/Moscow
 
 title: nize-blog # the main title
 
-tagline: Пишу о всяком в мире программирования и ещё немного учебные курсы # it will display as the sub-title
+tagline: Пишу о всяком в мире программирования и ещё немного обучающие курсы # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Добро пожаловать на nize-blog — ваш надежный источник знаний по программированию на Java и Kotlin.
