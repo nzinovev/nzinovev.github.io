@@ -16,14 +16,11 @@ timezone: Europe/Moscow
 
 title: nize-blog # the main title
 
-tagline: Пишу о всяком в мире программирования и ещё немного обучающие курсы # it will display as the sub-title
+tagline: Пишу о всяком # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Добро пожаловать на nize-blog — ваш надежный источник знаний по программированию на Java и Kotlin.
-  Доступные у нас бесплатные текстовые курсы, статьи и заметки представляют собой ценный ресурс для тех,
-  кто стремится освоить современные технологии, такие как Spring, Hibernate, Docker и многое другое.
-  С nize-blog вы сможете углубить свои знания и навыки в удобном формате, с новым контентом, публикуемым еженедельно.
-
+ Технический блог о программировании: статьи, руководства и советы по Spring Framework, Java, Kotlin, Docker и другим современным технологиям.
+ Получите практические примеры кода и улучшите свои навыки разработки. Идеальный ресурс для разработчиков всех уровней.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
