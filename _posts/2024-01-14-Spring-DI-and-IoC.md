@@ -1,8 +1,8 @@
 ---
 title: В чём преимущество Dependency Injection (DI) & Inversion of Control (IoC) в Spring
 date: 2024-01-14 19:15:00 +0300
-categories: [Познавательное]
-tags: [заметки, junior]
+categories: [Spring Framework]
+tags: [spring, DI, IoC]
 ---
 
 Одной из ключевых особенностей, которую предложил в своё время Spring Framework была концепция инверсии контроля
